@@ -28,8 +28,6 @@ header{
     align-items: center;
     margin: 10px;
     padding: 10px 20px;
-    width: 100%;
-    max-width: 95%;
 }
 a{
     text-decoration: none;
@@ -63,7 +61,7 @@ header ul li a:hover{
     flex-wrap: wrap;
     align-items: center;
     justify-content: space-between;
-    margin: 20px;
+    margin: 100px 20px 20px 20px ;
     padding: 10px;
     color: var(--main-text-color-dark-mode);
     gap: 10px;
